@@ -1,0 +1,11 @@
+import java.io.PrintStream;
+
+public class MySystem {
+
+  public static final MyPrintStream out = null;
+	
+	public String Myprintln() {
+		return "i am method";	
+		
+	}
+}

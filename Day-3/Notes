@@ -1,0 +1,124 @@
+Difference between a++ & ++a
+
+you without any refernce to any variable or in other words the incremented value is not 
+used in the program any where? is my understanding correct
+
+
+int a=10;
+
+CASE 1:
+a++ // 10+1=11
+print (a)//I have not stored any where hense I ma having old value only i.e 10
+
+CASE 2:
+c=a++// 10+1=11
+// I have assigned 11 in to variable c
+
+print(c)//11
+
+
+why increment only by 1. Why not 2 or 4 or 0.5 ?
+
+
+is + operator always increment the value = TRUE/FALSE 
+
+
+sir = and == both are same or not.  - not  same 
+a==b : true or false 
+a=b  : assign b value in to a
+ 
+
+line 17 b1=b3.my 2nd ques is can we concatenate string and char.
+my 3rd question is byte+1 where 1 is also in betweem -127 
+and 128 why not taken 1 as byte
+
+
+TODO
+
+Difference btween & and &&
+Difference btween | and ||
+Difference btween = and ==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  int a=5;
+  int b=6
+  int c= (++a)+++b
+  print(c) // ?
+
+
+
+
+
+
+
+
+what is difference between ++a and a++ =?
+
+
+
+int 
+
+
+int a1=20; 
+int a4=--a1;  
+a4=19 how??
+
+
+
+why have 2 types of increment before or after.- Yes
+
+
+
+
+
+
+if(true)
+  print("HellO")
+  
+  Ans -> 
+
+if(true)
+  int x=10;
+  
+  Ans -> 
+
+if(true);
+Ans -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

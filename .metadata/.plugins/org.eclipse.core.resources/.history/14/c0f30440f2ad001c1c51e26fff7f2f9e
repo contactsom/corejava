@@ -1,0 +1,42 @@
+package com.simplilearn.set;
+
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class SetExample {
+
+	public static void main(String[] args) {
+		
+		Set<String> mySet= new HashSet<String>();
+		//Initial size was 16
+		// when 17th element try to insert the size will automaticly increased by 75%
+		
+		
+		mySet.add("A");//1
+		mySet.add("B");
+		mySet.add("C");
+		mySet.add("D");
+		mySet.add("A");//2
+		System.out.println(mySet);// Error or not error 
+		
+		
+
+		Set<Integer> mySet1= new HashSet<Integer>();
+		mySet1.add(1);//1
+		mySet1.add(2);
+		mySet1.add(3);
+		mySet1.add(4);
+		mySet1.add(3);//2
+		System.out.println(mySet1);// Error or not error 
+		
+		
+		
+		Set<String> myset2= new LinkedHashSet<String>();
+		myset2.add(null);
+		
+		
+		
+		
+	}
+}

@@ -1,0 +1,11 @@
+
+public class MySystem {
+
+	public static MySystem out;
+	
+	public String Myprintln() {
+		return "i am method";
+		
+		
+	}
+}

@@ -1,0 +1,128 @@
+NOTES:
+
+byte b=10;
+switch(b){
+
+}
+Output - Error / No Error
+
+char ch='a';
+swich(ch){
+  
+}
+
+Output - Error / No Error
+
+
+
+long l=10L;
+switch(l){
+
+}
+
+
+for(;;);
+output = ?
+
+
+
+
+
+
+
+
+
+
+
+
+Output - Error / No Error 
+
+
+
+boolean val=true;
+switch(val){
+
+}
+
+Output - Error / No Error ? 
+
+
+
+int x=10;
+switch(x){
+    case 01:
+       //print 01
+    case 02 :
+       //print 02
+    case 01:
+       // print "one" 
+    case 02 :  
+       // print "two"
+    case 10 :
+       // print "ten" 
+
+}
+
+// Out put =?
+
+
+
+
+college :
+
+branch as input :EC
+ Taks :  for all CS student today half holiday :)
+ Taks :  for all EC student today need to comlete assignment:)
+  branch : CS , EC , etc....
+  
+  
+
+
+
+while(true)
+//print ("hello")
+// output = ?
+
+
+
+
+while(true)
+ int x=10;
+
+// output = ? 
+
+
+
+
+
+
+while(false) {
+			 System.out.println("Hello");
+		   }
+		System.out.println("HI");
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

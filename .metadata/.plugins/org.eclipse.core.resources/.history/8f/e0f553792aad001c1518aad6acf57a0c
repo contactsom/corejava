@@ -1,0 +1,8 @@
+package com.simplilearn.inter;
+
+public interface MyInterface {
+//un-implemented 
+	
+}
+
+

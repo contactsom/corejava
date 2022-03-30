@@ -1,0 +1,9 @@
+
+public class ThisExampleMain {
+
+	public static void main(String[] args) {
+		 
+		ThisExample   thisExample = new ThisExample();
+		
+	}
+}

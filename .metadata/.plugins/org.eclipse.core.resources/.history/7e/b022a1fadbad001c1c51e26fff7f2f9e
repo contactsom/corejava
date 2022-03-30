@@ -1,0 +1,20 @@
+
+public class EncapsulationExample {
+
+	
+	int  StuRollNo=10;
+    String StudentName="Joy";
+	
+    
+    public EncapsulationExample(int stuRollNo, String studentName) {
+		super();
+		StuRollNo = stuRollNo;
+		StudentName = studentName;
+	}
+
+    // Class., Object, constructor 
+    
+    
+
+
+}

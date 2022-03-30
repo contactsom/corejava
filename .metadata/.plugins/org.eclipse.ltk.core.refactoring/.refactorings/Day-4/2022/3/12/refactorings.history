@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.simplilearn.flowcontrol.SwitchExampl&apos; to &apos;SwitchExample&apos;&#x0A;- Original project: &apos;Day-4&apos;&#x0A;- Original element: &apos;com.simplilearn.flowcontrol.SwitchExampl&apos;&#x0A;- Renamed element: &apos;com.simplilearn.flowcontrol.SwitchExample&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwitchExampl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.simplilearn.flowcontrol{SwitchExampl.java[SwitchExampl" matchStrategy="1" name="SwitchExample" qualified="false" references="true" similarDeclarations="false" stamp="1647180913651" textual="false" version="1.0"/>
+</session>

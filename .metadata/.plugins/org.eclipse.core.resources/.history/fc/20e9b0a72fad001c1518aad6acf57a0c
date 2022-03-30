@@ -1,0 +1,18 @@
+package com.simplilearn.inter;
+
+public interface MyInterface {
+ 
+	 //un-implemented 	
+	public void getStudentDetails(); 
+	public void getStudentmarks();
+	public void getStudentDept();
+	
+	// focus from here
+	
+	//public void getAllEmployee(); <<<is equivalant to>>> void getAllEmployee();
+	
+
+
+}
+
+

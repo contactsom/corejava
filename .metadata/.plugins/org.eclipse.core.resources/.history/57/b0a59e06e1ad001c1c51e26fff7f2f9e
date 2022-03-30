@@ -1,0 +1,10 @@
+package com.simplilearn.poly;
+
+public class Samsung extends Moto {
+	
+	@Override
+     public static void getMoto() {
+			
+	}
+	
+}

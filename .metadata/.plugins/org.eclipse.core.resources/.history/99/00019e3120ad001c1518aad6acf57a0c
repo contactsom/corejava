@@ -1,0 +1,9 @@
+
+public class SuperExample {
+
+	int marks=20;
+	boolean isPass=true;
+	String stuName="Mohan";
+	
+	
+}

@@ -1,0 +1,10 @@
+
+public class MyPrintStream {
+	
+	
+	 public void Myprintln() {
+	        //newLine();
+	    }
+	 
+	
+}

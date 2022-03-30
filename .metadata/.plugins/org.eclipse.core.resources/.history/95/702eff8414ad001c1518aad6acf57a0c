@@ -1,0 +1,14 @@
+package com.simplilearn.variablesb;
+
+import com.simplilearn.variablesa.ProtectedExample;
+
+public class ProtuctedMain {
+
+	
+	public static void main(String[] args) {
+		ProtectedExample protectedExample = new ProtectedExample();
+		
+		
+		
+	}
+}

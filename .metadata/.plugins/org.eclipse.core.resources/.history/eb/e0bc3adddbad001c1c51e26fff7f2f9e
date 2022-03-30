@@ -1,0 +1,10 @@
+
+public class EncapsulationExample {
+
+	
+	int  StuRollNo=10;
+    String StudentName="Joy";
+// Class., 
+
+
+}

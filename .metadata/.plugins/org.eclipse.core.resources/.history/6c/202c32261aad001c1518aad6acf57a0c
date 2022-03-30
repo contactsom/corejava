@@ -1,0 +1,11 @@
+
+public class StaticMain {
+
+	public static void main(String[] args) {
+		
+		StaticExample staticExample = new StaticExample();
+		
+		
+		System.out.println(StaticMain.myName);
+	}
+}

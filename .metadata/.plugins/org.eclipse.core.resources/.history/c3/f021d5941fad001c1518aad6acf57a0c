@@ -1,0 +1,11 @@
+
+public class ThisExample {
+
+	
+	int marks=10;
+	boolean isPass=false;
+	String stuName="Joy";
+	
+	
+	
+}

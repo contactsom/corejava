@@ -1,0 +1,7 @@
+
+public class FinalExample {
+
+			
+		final int dayInWeek;		
+	
+}

@@ -1,0 +1,16 @@
+
+public class ThisExampleMain extends SuperExample {
+
+	public static void main(String[] args) {
+		 
+		ThisExample thisExample = new ThisExample();
+	
+		System.out.println(thisExample.marks);
+		System.out.println(thisExample.isPass);
+		System.out.println(thisExample.stuName);
+		
+		
+		SuperExample
+		
+	}
+}

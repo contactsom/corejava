@@ -1,0 +1,7 @@
+package com.simplilearn.variablesb;
+
+import com.simplilearn.inter.MyInterface;
+
+public class ProductImplement implements MyInterface {
+
+}

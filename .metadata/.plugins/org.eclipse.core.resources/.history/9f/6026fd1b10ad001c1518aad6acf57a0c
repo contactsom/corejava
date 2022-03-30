@@ -1,0 +1,17 @@
+package com.simplilearn.variables;
+
+public class DefaultMain {
+
+	public static void main(String[] args) {
+		
+		DefaultExample defaultExample = new DefaultExample();
+		
+		
+		String username= defaultExample.UsrName;
+		System.out.println(username);
+		
+		
+		
+		
+	}
+}

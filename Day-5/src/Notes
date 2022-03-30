@@ -1,0 +1,135 @@
+com.<Application/Org>.module
+
+com.<Application/Org>.module.<Something>
+
+
+//what is the difference between constructor 
+//and initialisation
+//what is @override - 
+
+//how object access
+//Any thing related to hardware memory and initalize variable-NO
+//is this the method of abstraction?in  OOP'S
+//copy constructor maybe
+
+//earlier you told constructor is used to
+// initilize the object but now variable?
+
+//default means 0...?
+
+int 0
+float 0.0
+String null
+
+does ZERO mean nothing ?
+s
+//Can you input some values to each object and 
+//check the output? 
+
+//so the only use constructor is  only to initialise variables in that class?
+
+
+//Can we assing the value from any form?
+
+
+object is not clear
+
+
+StudentName 
+	[
+		stuInitialName=null, 
+		stuMiddleName=null, 
+		stuLastName=null, 
+		studentRoll=0, 
+		isStudentPrest=false, 
+		studentMarks=0.0
+	]
+
+StudentName 
+	[
+		stuInitialName=Subham, 
+		stuMiddleName=null, 
+		stuLastName=null, 
+		studentRoll=0, 
+		isStudentPrest=false, 
+		studentMarks=0.0
+	]
+
+
+//what is the difference between no argument constructor 
+//and default constructor = Both are same 
+//Exolain this.variable
+
+
+//is object is nothing but copy of a class , I am right?
+
+
+//sir how many objects is needed. 
+//Like we are not aware how many users are present outside
+
+//can we import package that is available in another disk (C : D) 
+
+
+
+why we have assigned values  
+in "ObjectExampleParameterConst.java" class,
+if we can assign the values just like we did for Student 2 
+
+
+Employee management 
+
+Employee Name = Ravi
+Emp ID = 201
+Emp Email - Ravi@Gmail.com
+
+Data entry 
+
+StudentBranch sb2= new StudentBranch("Jon",303,"jon@yahoo.com");
+StudentBranch sb3= new StudentBranch("Jon1",304,"jon1@yahoo.com");
+StudentBranch sb4= new StudentBranch("Jon3",201,"jon3@yahoo.com");
+
+
+
+//like current file is availble in disk c and previous 
+//file is on D disk
+
+//it is copy of class, but object has its own mind....
+//like we are our parent;' children, but we have our own mind
+
+
+//why we have assigned values  
+in "ObjectExampleParameterConst.java" class, 
+if we can assign the values just like we did for Sb2 
+
+
+
+
+please creat new class
+
+in ths example we will have same object name like sb2?
+so if we print sb2, then how outcome will print?
+
+
+
+sir, you have defined all as sb2, 
+but have to dfined different names
+
+
+in ths example we will have same object name like sb2?
+so if we print sb2, then how outcome will print?
+
+
+is constructor is a method? Shivadimon420
+
+
+ 
+
+
+
+
+
+
+
+
+
+

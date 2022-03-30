@@ -1,0 +1,128 @@
+1. What is public variable ?
+*2. What is default variables or package level variables ?
+3. What is private variables ?
+*4. What is protected variables ?
+5. What is final variable ?
+6. Where to use final in variable ?
+7. What is static variables in java ?
+8. What do you mean by System.out.println("");
+
+
+
+
+
+TODO:
+Private class can be inherited by public class ?
+if if dont have any implementation in Java programming so why we are using?
+
+if only one Method is implemented instead of all? Will we still get error? 
+
+
+
+
+
+
+
+
+
+What is interface ?
+What is the use of interface ?
+What is the advantage of interface ?
+Interface is all about un-implementation ?Agree
+from JAVA 8 onwards this statement is false / we will lwarn why , when we will learn java 8
+for class extends key word is defined 
+For interface we have implememts key word defined to make a parent , child relationship
+What do you mean by interface implementation ?
+
+  
+
+
+
+not agree- Why ?
+maybe we can implement something
+because it has implement has keyword
+because we are developers and we have to implemente
+
+not agreed,
+user can implement stuff using the interface. 
+For ex, hen they enter the pin for example, 
+we are triggering the authentication process
+
+
+
+
+
+
+ATM - insert ATM 
+      ATM PIN 
+      Amount 
+      Ok
+      withdraw  
+
+Behind the seen : code is not visible 
+    1. ATM is getting validated 
+    2. PIN is getting validated 
+    3. You account balance will be validated , sufficent/in-sufficent balance  
+    4. getting money / not getting money
+    
+    
+    Example 2:
+    final year project :
+    1.Step- SRS - 
+       SMS
+        - Add student
+        - Update Student 
+        - delete student  
+    They are not realy wanted to understand 
+    technology
+    OS
+    UI design
+    etc...
+    
+    
+    DEVELOPER
+    
+    CLINT
+    
+    HOD,TEACHR (CLINT)
+    
+        SRS - interface
+    
+    Student (S/E)
+    
+    Have you understand the SRS?
+    What is interface : 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

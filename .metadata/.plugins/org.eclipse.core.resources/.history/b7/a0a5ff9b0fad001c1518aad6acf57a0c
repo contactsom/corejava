@@ -1,0 +1,8 @@
+package com.simplilearn.variables;
+
+public class DefaultExample {
+
+ default String UsrName="I am default Variables";
+
+	
+}

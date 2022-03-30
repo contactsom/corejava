@@ -1,0 +1,17 @@
+package com.simplilearn.variablesb;
+
+import com.simplilearn.variablesa.ProtectedExample;
+
+public class ProtuctedMain extends ProtectedExample{
+
+	
+	public static void main(String[] args) {
+		ProtectedExample protectedExample = new ProtectedExample();
+		//String name=protectedExample.myNme;
+		
+		ProtuctedMain protuctedMain = new ProtuctedMain();
+		
+		System.out.println(protuctedMain.myNme);
+		
+	}
+}

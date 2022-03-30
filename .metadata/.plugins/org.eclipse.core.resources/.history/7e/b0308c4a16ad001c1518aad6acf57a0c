@@ -1,0 +1,6 @@
+package com.simplilearn.variablesa;
+
+public class ProtectedExample {
+
+    public String myNme="I am my name as protucted";
+}

@@ -1,0 +1,20 @@
+package com.simplilearn.variables;
+
+import com.simplilearn.variables1.OutSidePackage;
+
+public class DefaultMain {
+
+	public static void main(String[] args) {
+		
+		DefaultExample defaultExample = new DefaultExample();			
+		String username= defaultExample.UsrName;
+		System.out.println(username);
+		
+		
+		
+		//OutSidePackage outSidePackage = new OutSidePackage();
+		//String myvar=outSidePackage.UsrNameOutSide;
+		
+		
+	}
+}

@@ -1,0 +1,13 @@
+
+public class MyStstemMain {
+
+	public static void main(String[] args) {
+		
+		//MySystem.out.Myprintln();		
+		System.out.println(MySystem.out.Myprintln());
+		//System.out.println();
+	}
+}
+
+
+//those who says I have 10 year of experience please say what's wrong with the code

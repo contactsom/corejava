@@ -1,0 +1,9 @@
+package com.simplilearn.poly;
+
+public interface Moto {
+
+	
+	public static void getMoto() ;
+	
+	
+	}

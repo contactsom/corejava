@@ -1,0 +1,23 @@
+package com.simplilearn.set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class SetExample {
+
+	public static void main(String[] args) {
+		
+		Set<String> mySet= new HashSet<String>();
+		mySet.add("A");//1
+		mySet.add("B");
+		mySet.add("C");
+		mySet.add("D");
+		mySet.add("A");//2
+		System.out.println(mySet);// Error or not error 
+		
+		
+		
+		
+		
+	}
+}

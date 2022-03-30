@@ -1,0 +1,44 @@
+
+Collection Framework :
+
+Collections(I)
+
+List(I) :
+    1. List will store duplicate data .
+
+	Arraylist :   
+	    2. Insertion order is preserved .
+	    3. Memory utilization is less
+	    4. Default size is allocated by JVM is 10
+	    5. As soon as you will insert the 11th data , JVM will going to increase the size as below..
+	       Formula is : new capacity=current Capacity*3/2+1 it is equivlent to ***%
+	       
+	       
+	       
+	       
+	       
+	        
+	Linked List :
+	    2. Insertion order is preserved .
+	    3. Memory utilization is high
+   
+   
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

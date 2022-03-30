@@ -1,0 +1,55 @@
+package com.simplilearn.map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapExample {
+
+	public static void main(String[] args) {
+		
+		Map<Integer,String> myMap = new HashMap<Integer,String>();
+		// it store the data in KEY and Value pair 
+		// I wnat to collet a data 
+		myMap.put(1, "A");
+		myMap.put(2, "B");
+		myMap.put(3, "C");
+		myMap.put(4, "D");
+		myMap.put(5, "E");	
+		myMap.put(5, "F");	
+		System.out.println(myMap);
+		
+		//is there any advantage?
+		// is key duplicate ?
+
+		
+		Map<String,String> myMap1 = new HashMap<String,String>();
+		// it store the data in KEY and Value pair 
+		// I wnat to collet a data 
+		myMap1.put("101", "A");
+		myMap1.put("102", "B");
+		myMap1.put("103", "C");
+		myMap1.put("104", "D");
+		myMap1.put("105", "E");	
+		myMap1.put("105", "F");	
+		myMap1.put("106", "A");	
+		System.out.println(myMap1);
+		
+		// Size : default 16
+		// Increment ratio : 75%
+
+		
+
+
+		
+		
+		
+		
+		
+		//can we repeat value?
+
+		
+		
+		
+		
+	}
+}

@@ -1,0 +1,100 @@
+TODO:
+what is the use of static keyword ?
+without creating object..we cannot access methods...is this the only way to access methods
+
+
+//but what is the purpose of having two ways
+
+
+
+
+we we can write the code in progress if we want to try something for ajust checking 
+
+
+
+//List of examples ...you promised to give for practice.
+
+
+
+Next week
+Interview question :How to achieve or implement Abstraction in Java?
+
+
+// abstract / default / protected ->  
+
+
+
+//sir you have shown us  2ways to get the output .. 
+//one by using retun & one by using Syso in the method.. 
+//what is the main difference ? & what is the rigth way ? //dineshsamai ? 
+
+
+//I am slightly confused with the object creation of this class within the same class.
+//I would have thought that you will create it outside the class.
+
+//Can we create a object with another class name? //from shashijha888 to All Participants:
+
+//Sir, are you saynig INTENTIATED or INITIATED
+
+//can we return more than one values at a time  - only one value at a time 
+
+//best practice is to create an object of another class but for 
+//easier understanding Om is creating the object of self.
+
+
+
+How to create  the method
+How to call the method
+How to return the value form method
+How to pass the argumrnt in to the method.
+What is the difference between abstarct and final method 
+	
+
+
+abstract void getMe1(); 
+	// Why abstract method needed 
+
+
+
+//What other methods can be overridden???
+
+
+
+
+
+
+
+
+String output = "" --> Can this be moved to the main class? Which is best practice?
+
+
+
+
+
+we can return multiple values provided those multiple values are part of one single object.
+
+shashijha888
+we are confused due to some word like override
+
+
+
+pulic - every where 
+abstract - currently you do not have implementation 
+private -  can be accessable in same class
+protected - different pacakge with child class object
+            same pacakge but different class
+                
+final - we not not override 
+
+//difference between Default method and Protected method? 
+//syedshoaib
+
+//difference between Default method , private method and Protected method? 
+//twishivam?
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+
+public class FinalExample {
+
+	public static void main(String[] args) {
+		
+		int dayInWeek=7;
+	}
+}
