@@ -1,0 +1,43 @@
+String :
+
+Why ?
+Because String class is "Immutable"
+
+What is "Immutable" ?
+- Once we create a String object we can not perform any changes is the existing object.
+If we are trying to perform any  changes with those changes a new object will be created.
+This behavior is called "Immutability of String ".
+ 
+ 
+ What do you mean by "==" in String.
+ It compare the memory referance ID/Memory Address
+ 
+ What is .equals() is String
+ It compare the Content of String;
+ 
+ StringBuffer is not Immutable.
+ 
+ String builder 
+ 
+what is the use of string buffer? where can we use string buffer or normal String?
+
+String myCVV="ABC";
+myCVV.append("EFG");
+
+
+StringBuffer myCVV="ABC";
+myCVV.append("EFG");
+
+
+From ABC to EFG -> 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 

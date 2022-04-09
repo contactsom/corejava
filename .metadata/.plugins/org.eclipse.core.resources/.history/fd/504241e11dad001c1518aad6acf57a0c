@@ -1,8 +1,0 @@
-
-
-public class MySystem {
-
-  public static final MyPrintStream out ;
-	
-	
-}

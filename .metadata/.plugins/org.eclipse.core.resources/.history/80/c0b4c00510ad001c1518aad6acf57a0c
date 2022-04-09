@@ -1,5 +1,0 @@
-package com.simplilearn.variables1;
-
-public class OutSidePackage {
-	 String UsrName="I am default Variables";
-}

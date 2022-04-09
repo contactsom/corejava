@@ -1,6 +1,0 @@
-package com.simplilearn.variables;
-
-public class PrivateExample {
-
-	private String var1 ="I am Private Variables";
-}

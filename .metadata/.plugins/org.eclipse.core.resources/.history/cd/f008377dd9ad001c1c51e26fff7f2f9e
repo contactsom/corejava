@@ -1,8 +1,0 @@
-package com.simplilearn.conflict;
-
-public class Solution implements InterfaceA , InterfaceB{
-
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,0 +1,139 @@
+
+Thread Priority :
+1 to 10
+Thread.MIN_PRIORITY=1
+Thread.NORM_PRIORITY=5 (Default)
+Thread.MAX_PRIORITY=10
+
+Thread Life Cycle :
+1.new/born State     ->  2.Ready/Runnable State    -> 3.Running State     -> 4.Dead State
+                           Thread-1=P3                 //Thread-1=P3      
+                                                       Thread-2=P3
+                                                       Thread-3=P3
+
+
+yield() from 3 to 2
+join()
+sleep()
+
+yield()
+
+This method is to pause current executing thread from giving the chance to remaining watting thread of same priority.
+
+
+Join()
+
+If a thread wants to wait untill completing some other thread then we should got for join() method.
+
+
+t1
+t1.join();
+t2
+
+//we can write t1, t2, t3, t1.join, t4, t2. join etc..... YES You can
+ 
+ 
+ 
+ 
+ 
+ 
+t1- Complete
+t2- Start
+
+
+//pl. repaat
+
+
+
+sleep()
+
+If a thread do not want to perform any operation for a particular amount of time then we should go for sleep() method 
+
+
+//does sleep can be used to wait for antoerh TASK to complete- no
+
+
+Synchronization block: (not recommended to use )
+**********************
+
+t1
+	tt1
+	tt2
+t2
+
+t1
+Synchronization(this){
+......
+tt1
+tt2
+...
+..
+}
+t2
+*******
+
+Thread Life Cycle :
+1.new/born State     ->  2.Ready/Runnable State    -> 3.Running State     -> 4.Dead State
+                           							Thread-1=P3                                     // Thread- 4 
+                           							Thread-2 wait()                   
+                          						    Thread-3 wait() 
+                                                      
+notify() - 1 person
+notifyAll() - all person
+
+
+We can use notify() to notify only one thread but which watting thread will be notified we can not exectely pridicate.
+But for notifyAll() all watting thread will be notify but the thread executed one by one.
+
+
+
+How to stop/ kill the thread
+stop();
+
+What is Demon Thread :
+ The thread which is executing in background are called "Demon Thread".
+ 
+ Deadlock 
+ *********
+ 
+          T1
+          
+             R1-1
+          
+          T2
+          
+          
+          
+          
+ ->>>>
+ 
+ 
+ *************************************
+ 
+ IO- Input Output
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

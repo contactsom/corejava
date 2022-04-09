@@ -1,0 +1,174 @@
+
+TODO:
+
+What is Throws in Exception 
+
+int     - Integer
+boolean - Boolean
+byte    - Byte
+long    - Long
+short   - Short
+float   - Float
+double  - Double
+
+List, Set, MAP
+Wrapper Class :
+
+
+
+What is Exception
+What is Checked- Exception
+What is un-Checked Exception
+What is Error
+What is the diference between try and catch
+
+
+
+
+Catch block will always execute = False 
+try block will always execute = True
+
+try{
+
+   Statement -1 - exception
+}catch{
+   Statement -2
+}
+ 
+ 
+O/P = Statement -2
+
+*********************
+
+try{
+
+   Statement -1 - exception
+   Statement -2 - No-exception
+}catch{
+   Statement -3
+}
+ 
+ 
+O/P =  Statement -3
+
+
+
+***********************
+
+try{
+
+   Statement -1 - No-exception
+   Statement -2 - Exception
+}catch{
+   Statement -3
+}
+ 
+ 
+O/P =  1,3
+
+
+
+from suhaspathak2386@gmail.com to All Participants:?
+
+but every code must be consists of try,catch and finally - NO
+Try & Catch is mandotery but not Finally
+
+
+if code in try block is creating problem...why can't we remove that line of code?
+
+can we add System.exit(0); within the try or catch block
+
+
+try
+catch
+// finally
+
+
+
+
+
+
+********************************************************************
+Thread 
+********************************************************************
+
+ATM Example :
+
+Process based Multi - tasking 
+
+Independent :
+
+Write the Code 
+MP3 
+download 
+
+
+
+
+TASK
+
+Task-1
+Task-2
+Task-3
+Task-4
+
+So , Sub- task to complete the main "TASK"
+And this is independent 
+
+I want to release MOVIE 
+
+1. I can Edit Video
+2. I can Edit Audio
+3. I can Edit Image
+4. I can Edit Background 
+
+Finally 
+1+2+3+4= MOVIE ready to Release 
+
+
+
+1. Extending the Thread Class
+2. Implementing the Runnable Interface1
+
+
+Q. Difference between t.strat & t.run() ?
+In this case of t.start() a new thread will be created & that thread is responsible to
+execute the run();
+
+But in the case of t.run(), no new thread will be created & run method will be executed just like 
+another method call.
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,0 @@
-package com.simplilearn.conflict;
-
-public class MouseClick implements Left , Right{
-
-	
-}

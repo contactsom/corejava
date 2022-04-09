@@ -1,8 +1,0 @@
-import java.io.PrintStream;
-
-public class MySystem {
-
-  public static final MyPrintStream out = null;
-	
-	
-}

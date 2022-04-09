@@ -1,7 +1,0 @@
-
-public class MyPrintStream {
-	public String Myprintln() {
-		return "i am method";	
-		
-	}
-}
